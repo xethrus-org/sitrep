@@ -1,0 +1,7 @@
+want to use osm-api?
+
+need to render an image of the map.
+
+Looks like I may want a bundled form of geojson and topojson
+
+
